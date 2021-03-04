@@ -1,8 +1,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquipo&hide=php&layout=compact&theme=radical" /></td>
-        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=alquipo&theme=radical&show_icons=true"/>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inacioalv&hide=php&layout=compact&theme=radical" /></td>
+        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=inacioalv&theme=radical&show_icons=true"/>
 </td>
     </tr>
   </table>
@@ -25,9 +25,9 @@
 </a>
 <br/>
 
-### My Development Stack:
+### Meu desenvolvimento:
 
-**Application**
+**Aplicações**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
