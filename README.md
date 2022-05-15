@@ -10,7 +10,8 @@
 
 <h2>Olá seja bem vindo ao meu Repositorio Github </h2>
 
-### Sou analista de sistema, desenvolvo sofware atualmente com ênfase em java,HTML 5, javaSript ,typescript
+### Sou formado em análise e desenvolvimento de sistemas,tenho foco no desenvolvimento em java utilizando framework spring boot.
+    
 
 ---
 
